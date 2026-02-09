@@ -4,4 +4,6 @@ main line
 =======
 uoo
 uoo tst conflict
->>>>>>> hotfix
+>>>>>>> hotfixn
+
+new lin from nbranch
