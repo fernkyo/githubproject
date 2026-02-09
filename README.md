@@ -5,3 +5,5 @@ main line
 uoo
 uoo tst conflict
 >>>>>>> hotfix
+
+from main
